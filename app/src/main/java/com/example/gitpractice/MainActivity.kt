@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         println("MY SECOND COMMIT")
         println("LOCAL CHANGE")
         println("CHANGE 2")
+        println("THIS LINE WILL BE MERGED")
     }
 }
