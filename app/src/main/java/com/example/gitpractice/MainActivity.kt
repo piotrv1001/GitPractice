@@ -14,5 +14,6 @@ class MainActivity : AppCompatActivity() {
         println("THIS LINE WILL BE MERGED")
         println("Hello from your friend")
         println("New commit")
+        println("New branch1")
     }
 }
